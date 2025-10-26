@@ -1,0 +1,258 @@
+==========================================
+    NEURO AI STUDY PLANNER - BRAND KIT
+==========================================
+
+BRAND IDENTITY
+==============
+
+Name: Neuro AI Study Planner
+Tagline: "AI Study Planner — day by day"
+Mission: Transform learning with personalized AI-powered study plans
+
+VISUAL IDENTITY
+===============
+
+Logo Description:
+- Brain icon: 🧠 (representing intelligence and neural networks)
+- Modern, clean design
+- Blue gradient primary color
+- Brain symbol emphasizes AI and learning
+
+Color Palette:
+==============
+
+Primary Colors:
+- Blue: #2563eb (Primary-600)
+- Dark Blue: #1d4ed8 (Primary-700)
+- Purple: #8b5cf6
+- Cyan: #06b6d4
+
+Accent Colors:
+- Success Green: #10b981
+- Warning Orange: #f59e0b
+- Error Red: #ef4444
+
+Neutral Colors:
+- Slate-100 through Slate-800
+- White: #ffffff
+- Background: Gradient from white via primary-50/30 to white
+
+Typography:
+===========
+
+Primary Font: Inter
+- Weights: 400, 500, 600, 700
+- Google Fonts
+- System fallback: sans-serif
+
+Font Sizes:
+- Hero: 48px (mobile: 44px)
+- H2: 32px (mobile: 28px)
+- Body: 18px (mobile: 16px)
+- Small: 14px
+
+BRAND PERSONALITY
+================
+
+Tone of Voice:
+- Intelligent but approachable
+- Helpful and supportive
+- Confident and encouraging
+- Clear and concise
+
+Brand Values:
+- Innovation: World's first AI study planner
+- Personalization: Each plan tailored to the individual
+- Excellence: High-quality educational resources
+- Accessibility: Available to learners worldwide
+- Empowerment: Help users achieve their learning goals
+
+BRAND MESSAGES
+==============
+
+Headline:
+"AI Study Planner — day by day"
+
+Key Messages:
+- "Pick a subject, set your goal and time — get a personalized plan"
+- "World's First AI Study Planner"
+- "Increase study productivity up to 40%"
+- "AI analyzes everything about your learning needs"
+
+Value Propositions:
+- ✨ Completely personalized study plans
+- 🧠 AI-powered intelligent planning
+- 📚 Real educational resources
+- 📅 Day-by-day structured learning
+- 🌍 Multilingual support
+
+VISUAL ELEMENTS
+===============
+
+Icons:
+- Brain: 🧠 (Primary AI symbol)
+- Lightbulb: 💡 (Ideas and learning)
+- Target: 🎯 (Goals and focus)
+- Calendar: 📅 (Planning and structure)
+- Rocket: 🚀 (Growth and achievement)
+- Checkmark: ✅ (Success and completion)
+
+Subject Icons:
+- Programming: 💻
+- English: 🇬🇧
+- Mathematics: 🧮
+- Data Science: 📊
+- Health: 🏃
+- Custom: 🎯
+
+UI Components:
+==============
+
+Buttons:
+- Primary: Blue gradient with white text
+- Secondary: White with blue border
+- Ghost: Transparent with blue text
+- Hover effects: Scale and shadow
+- Loading states: Animated spinners
+
+Cards:
+- Rounded corners: 16-20px
+- Soft shadows
+- Gradient backgrounds
+- Hover animations
+- Border highlights
+
+Animations:
+===========
+
+- Fade in: Smooth entrance
+- Scale on hover: 1.05x
+- Pulse: Gentle breathing effect
+- Slide: Smooth transitions
+- Gradient: Flowing colors
+
+BRAND GUIDELINES
+================
+
+Do's:
+✓ Use approved colors only
+✓ Maintain consistent spacing
+✓ Use Inter font family
+✓ Apply proper contrast ratios
+✓ Include brand icons appropriately
+✓ Follow responsive design principles
+✓ Ensure accessibility (WCAG AA)
+✓ Maintain professional tone
+
+Don'ts:
+✗ Use unofficial colors
+✗ Mix different font families
+✗ Create low contrast combinations
+✗ Use unapproved graphics
+✗ Ignore responsive design
+✗ Compromise accessibility
+✗ Use informal language
+✗ Clutter interfaces
+
+ASSETS
+======
+
+Logo Files:
+- Available formats: SVG, PNG
+- Color variations: Full color, white, transparent
+- Sizes: 16px, 32px, 64px, 128px, 256px
+
+Social Media:
+- Profile pictures: 400x400px
+- Cover images: 1500x500px (Twitter), 820x312px (Facebook)
+- Post images: 1080x1080px
+- Story templates: 1080x1920px
+
+Marketing Materials:
+- Screenshots: Multiple devices
+- Promotional graphics
+- Demo videos
+- Case studies
+- Testimonials
+
+WEBSITE ELEMENTS
+================
+
+Header:
+- Logo on the left
+- Navigation in center
+- Auth buttons on right
+- Responsive mobile menu
+
+Footer:
+- Brand information
+- Links to pages
+- Social media icons
+- Copyright notice
+
+Hero Section:
+- Bold headline
+- Clear call-to-action
+- Trust badges
+- Animated elements
+
+CTA Buttons:
+- "Generate my plan" (Primary)
+- "See a sample plan" (Secondary)
+- Large, prominent, easy to find
+
+CONTACT
+=======
+
+Media Inquiries:
+Email: press@neuroaiplanner.com
+Phone: [Your Contact Number]
+
+Brand Usage:
+For brand usage requests, contact: brand@neuroaiplanner.com
+
+Press Kit Downloads:
+Website: https://neuroaiplanner.com/press
+GitHub: Screenshots folder
+
+SOCIAL MEDIA
+============
+
+Handles:
+Twitter: @neuroaiplanner
+LinkedIn: Neuro AI Study Planner
+GitHub: neuro-ai-planner
+
+Content Strategy:
+- Educational tips
+- Product updates
+- User success stories
+- Behind-the-scenes
+- Learning resources
+
+KEYWORDS
+========
+
+Primary:
+- AI Study Planner
+- Personalized Learning
+- Study Plan Generator
+- Educational AI
+- Automated Study Planning
+
+Secondary:
+- AI Education
+- Study Schedule
+- Learning Platform
+- Online Education
+- Exam Preparation
+
+Trademark
+=========
+
+"Neuro AI Study Planner" is a registered trademark.
+All rights reserved.
+
+For licensing inquiries: license@neuroaiplanner.com
+
+==========================================
