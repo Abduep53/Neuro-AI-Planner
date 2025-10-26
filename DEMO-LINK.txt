@@ -1,0 +1,52 @@
+==========================================
+    NEURO AI STUDY PLANNER - LIVE DEMO
+==========================================
+
+🎉 Welcome to the World's First AI-Powered Study Planner!
+
+📱 LIVE PRODUCTION SITE:
+   https://bestplannerai.com
+
+🌟 FEATURES:
+   ✅ AI-powered study plan generation
+   ✅ Personalized learning schedules
+   ✅ Real educational resources
+   ✅ Progress tracking
+   ✅ Multilingual support (EN/RU/UZ)
+   ✅ Export to PDF/Markdown
+
+🎯 QUICK START:
+   1. Open the live site above
+   2. Click "Generate my plan"
+   3. Select your subject
+   4. Configure your goals
+   5. Get your AI-generated plan instantly!
+
+📊 WHAT YOU GET:
+   - Day-by-day study schedules
+   - Curated learning resources
+   - Time-optimized blocks
+   - Assessment tools
+   - Progress tracking
+
+🌍 LANGUAGES:
+   - English 🇬🇧
+   - Russian 🇷🇺
+   - Uzbek 🇺🇿
+
+💡 TIP:
+   Try different subjects:
+   - 💻 Programming & Tech
+   - 🇬🇧 English & Global Exams
+   - 🧮 Mathematics & Logic
+   - 📊 AI & Data Science
+   - 🏃 Health & Productivity
+   - 🎯 Custom Plans
+
+📧 Support:
+   neuroleague.ai@gmail.com
+
+🚀 Get Started Now:
+   https://bestplannerai.com
+
+==========================================
